@@ -7,7 +7,7 @@ export function Header() {
     <header className="fixed w-full bg-white/80 backdrop-blur-md z-50">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/" className="text-2xl font-bold text-gray-800">
-          PaperCraft
+          Prismoria.in
         </Link>
         <nav>
           <ul className="flex space-x-6">
